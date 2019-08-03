@@ -1,0 +1,11 @@
+{
+  "html.format.wrapLineLength": 80,
+  "editor.formatOnSave": true,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "typescript.format.insertSpaceAfterConstructor": true,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true
+}

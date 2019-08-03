@@ -4,6 +4,7 @@
 	"private": true,
 	"homepage": "https://shra26.github.io/lock-key-apparel",
 	"dependencies": {
+		"firebase": "^6.3.4",
 		"gh-pages": "^2.1.0",
 		"node-sass": "^4.12.0",
 		"react": "^16.8.6",
