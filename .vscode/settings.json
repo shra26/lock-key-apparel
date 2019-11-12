@@ -5,7 +5,5 @@
   "typescript.format.insertSpaceAfterConstructor": true,
   "typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
   "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
-  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
-  "prettier.jsxSingleQuote": true,
-  "prettier.singleQuote": true
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true
 }
